@@ -1,0 +1,12 @@
+[
+    {
+        "comprador": "Juan",
+        "evento": "Parrillada de fin de semana",
+        "cantidad": 2
+    },
+    {
+        "comprador": "Mar\u00eda",
+        "evento": "Evento VIP de asado",
+        "cantidad": 1
+    }
+]

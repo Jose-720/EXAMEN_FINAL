@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Parrillada de fin de semana",
+        "fecha": "2024-03-20",
+        "cantidad_disponible": 50,
+        "precio": 20.0
+    },
+    {
+        "nombre": "Evento VIP de asado",
+        "fecha": "2024-04-15",
+        "cantidad_disponible": 20,
+        "precio": 50.0
+    }
+]
